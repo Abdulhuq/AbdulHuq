@@ -1,16 +1,79 @@
-## Hi there 👋
+![MasterHead](https://giffiles.alphacoders.com/220/220234.gif)
 
-<!--
-**Abdulhuq/AbdulHuq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello, I am Abdul Huq 👋</h1>
+<h3 align="center">
+Backend Engineer from India <br/>
+Turning Ideas into Scalable Realities
+</h3>
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="380" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Abdulhuq&label=Profile%20views&color=0e75b6&style=flat" alt="Abdulhuq" />
+</p>
+
+- 🔭 Built **AI-powered trading & blockchain analytics platforms**
+- ⚙️ Backend Engineer focused on **performance, scale & system design**
+- 🤖 Working with **LLMs & automation**
+- 📫 Reach me at **abdultonuhuq@gmail.com**
+
+---
+
+## 🌐 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/abdul-huq-123993227/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+## 🛠 Languages & Tools (Aligned with Resume)
+
+<p align="left">
+
+<!-- Languages -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
+
+<!-- Backend -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40"/>
+
+<!-- Databases -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/>
+<img src="https://avatars.githubusercontent.com/u/54801242?s=200&v=4" width="40"/>
+
+<!-- Tools -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+
+<!-- OpenAI -->
+<img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" width="40"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulhuq&show_icons=true&layout=compact&theme=tokyonight" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdulhuq&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulhuq&theme=tokyonight" />
+</p>
