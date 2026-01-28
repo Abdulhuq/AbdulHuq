@@ -52,10 +52,8 @@ Turning Ideas into Scalable Realities
 <img src="https://avatars.githubusercontent.com/u/54801242?s=200&v=4" width="40"/>
 
 <!-- Tools -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
 
 <!-- OpenAI -->
 <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" width="40"/>
@@ -75,5 +73,5 @@ Turning Ideas into Scalable Realities
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulhuq&theme=tokyonight" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=Abdulhuq&theme=tokyonight" />
 </p>
