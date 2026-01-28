@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello, I am Abdul Huq 👋</h1>
 <h3 align="center">
-Backend Engineer from India <br/>
+Backend Engineer <br/>
 Turning Ideas into Scalable Realities
 </h3>
 
@@ -26,52 +26,54 @@ Turning Ideas into Scalable Realities
 </a>
 </p>
 
----
-
-## 🛠 Languages & Tools (Aligned with Resume)
+## 📄 Resume
 
 <p align="left">
+  <a href="https://drive.google.com/file/d/1zqdIVBchoEz0HlW1eEbT8DIuuBbUcX1m/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=googledrive" />
+  </a>
+</p>
 
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="left">
 <!-- Languages -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
 
 <!-- Backend -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40"/>
 
 <!-- Databases -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/>
 <img src="https://avatars.githubusercontent.com/u/54801242?s=200&v=4" width="40"/>
 
 <!-- Tools -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
 
-<!-- OpenAI -->
+<!-- AI -->
 <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" width="40"/>
-
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulhuq&show_icons=true&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Abdulhuq&theme=tokyonight" />
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdulhuq&show_icons=true&theme=tokyonight" />
-</p>
+<br/>
 
-<p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=Abdulhuq&theme=tokyonight" />
-</p>
+<img src="https://streak-stats.demolab.com/?user=Abdulhuq" />
+
+<br/>
+
