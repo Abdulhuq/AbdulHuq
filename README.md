@@ -41,6 +41,7 @@ Turning Ideas into Scalable Realities
 
 <p align="left">
 <!-- Languages -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
@@ -71,9 +72,5 @@ Turning Ideas into Scalable Realities
 
 <img src="https://github-readme-stats.vercel.app/api?username=Abdulhuq&theme=tokyonight" />
 
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=Abdulhuq" />
-
-<br/>
 
